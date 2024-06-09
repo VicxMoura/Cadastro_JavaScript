@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding: 250px;
+    }
+
+form{
+    padding: 20px;
+    border: 10px solid black;
+}
